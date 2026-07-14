@@ -1,0 +1,7 @@
+joblib
+mediapipe==0.10.14
+opencv-python-headless
+scikit-learn
+numpy
+pandas
+protobuf==5.28.3
