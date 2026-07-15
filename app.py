@@ -6,7 +6,7 @@ import argparse
 import os
 
 # Load the model
-MODEL_PATH = 'gesture_classifier (2).pkl'
+MODEL_PATH = 'gesture_classifier.pkl'
 try:
     loaded_clf = joblib.load(MODEL_PATH)
     print(f"Model loaded successfully from {MODEL_PATH}!")
